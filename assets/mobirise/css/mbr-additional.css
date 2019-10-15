@@ -1197,7 +1197,7 @@ section.lazy-placeholder:after {
 .cid-rEWGCo9Z4g {
   padding-top: 0px;
   padding-bottom: 0px;
-  background-color: #efefef;
+  background-image: url("../../../assets/images/mbr-1920x1078.jpg");
 }
 .cid-rEWGCo9Z4g .list-group-item {
   padding: .75rem 3.25rem;
@@ -1249,6 +1249,9 @@ section.lazy-placeholder:after {
   .cid-rEWGCo9Z4g .price-figure {
     font-size: 4.25rem;
   }
+}
+.cid-rEWGCo9Z4g UL {
+  color: #232323;
 }
 .cid-rEqgdAqGEh {
   padding-top: 90px;
