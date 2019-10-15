@@ -1194,15 +1194,15 @@ section.lazy-placeholder:after {
     flex-basis: 33%;
   }
 }
-.cid-rEWDfBX7YV {
-  padding-top: 90px;
-  padding-bottom: 90px;
-  background-image: url("../../../assets/images/parner-pos-logo-edited-2-320x127.png");
+.cid-rEWGCo9Z4g {
+  padding-top: 0px;
+  padding-bottom: 0px;
+  background-color: #efefef;
 }
-.cid-rEWDfBX7YV .list-group-item {
+.cid-rEWGCo9Z4g .list-group-item {
   padding: .75rem 3.25rem;
 }
-.cid-rEWDfBX7YV .plan {
+.cid-rEWGCo9Z4g .plan {
   word-break: break-word;
   position: relative;
   max-width: 300px;
@@ -1210,14 +1210,14 @@ section.lazy-placeholder:after {
   padding-left: 0;
   color: #767676;
 }
-.cid-rEWDfBX7YV .plan .list-group-item {
+.cid-rEWGCo9Z4g .plan .list-group-item {
   position: relative;
   -webkit-justify-content: center;
   justify-content: center;
   background-color: transparent;
   border: 0;
 }
-.cid-rEWDfBX7YV .plan .list-group-item::after {
+.cid-rEWGCo9Z4g .plan .list-group-item::after {
   position: absolute;
   bottom: 0;
   left: 20%;
@@ -1226,27 +1226,27 @@ section.lazy-placeholder:after {
   content: "";
   background-color: #eaeaea;
 }
-.cid-rEWDfBX7YV .plan .list-group-item:last-child::after {
+.cid-rEWGCo9Z4g .plan .list-group-item:last-child::after {
   display: none;
 }
-.cid-rEWDfBX7YV .plan.favorite {
+.cid-rEWGCo9Z4g .plan.favorite {
   background-color: #fff;
   box-shadow: 0 0 60px 0 rgba(0, 0, 0, 0.07);
 }
-.cid-rEWDfBX7YV .plan-header {
+.cid-rEWGCo9Z4g .plan-header {
   padding-left: 1rem;
   padding-right: 1rem;
 }
-.cid-rEWDfBX7YV .price-figure {
+.cid-rEWGCo9Z4g .price-figure {
   font-weight: 700;
   color: #232323;
 }
-.cid-rEWDfBX7YV .price-value {
+.cid-rEWGCo9Z4g .price-value {
   font-weight: 700;
   vertical-align: top;
 }
 @media (max-width: 550px) {
-  .cid-rEWDfBX7YV .price-figure {
+  .cid-rEWGCo9Z4g .price-figure {
     font-size: 4.25rem;
   }
 }
