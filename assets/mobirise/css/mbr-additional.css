@@ -1250,49 +1250,6 @@ section.lazy-placeholder:after {
     font-size: 4.25rem;
   }
 }
-.cid-rEq6wLD6oE {
-  padding-top: 30px;
-  padding-bottom: 15px;
-  background-image: url("../../../assets/images/mbr-4-1920x1280.jpg");
-}
-.cid-rEq6wLD6oE .pricing {
-  padding: 3.3rem;
-  color: #767676;
-  background-color: #fff;
-}
-@media (max-width: 767px) {
-  .cid-rEq6wLD6oE .pricing {
-    padding: 1.5rem;
-  }
-}
-.cid-rEq6wLD6oE .plan-header,
-.cid-rEq6wLD6oE .plan-body {
-  background-color: #fff;
-}
-.cid-rEq6wLD6oE .plan-title {
-  margin-top: 1.4rem;
-  color: #c1c1c1;
-}
-.cid-rEq6wLD6oE .price-figure {
-  font-weight: 700;
-  color: #c1c1c1;
-}
-@media (max-width: 550px) {
-  .cid-rEq6wLD6oE .price-figure {
-    font-size: 4.25rem;
-  }
-}
-.cid-rEq6wLD6oE .price-value {
-  font-weight: 700;
-  vertical-align: top;
-  color: #cccccc;
-}
-.cid-rEq6wLD6oE hr {
-  margin: 2rem 0;
-}
-.cid-rEq6wLD6oE P {
-  color: #232323;
-}
 .cid-rEqgdAqGEh {
   padding-top: 90px;
   padding-bottom: 90px;
