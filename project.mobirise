@@ -37,12 +37,12 @@
     "screenshot": "screenshot.png",
     "cookiesAlert": {
       "colorText": "#424a4d",
-      "colorBg": "#eaeff1",
+      "colorBg": "#c1c1c1",
       "colorButton": "#ffffff",
       "colorLink": "#424a4d",
       "underlineLink": true,
       "opacity": "99",
-      "text": "Nasza strona internetowa używa plików cookies (tzw. ciasteczka) w celach statystycznych, reklamowych oraz funkcjonalnych. Dzięki nim możemy indywidualnie dostosować stronę do twoich potrzeb. Każdy może zaakceptować pliki cookies albo ma możliwość wyłączenia ich w przeglądarce, dzięki czemu nie będą zbierane żadne informacje . "
+      "text": "Informujemy, iż nasza witryna internetowa wykorzystuje technologię plików cookies, a jednocześnie nie zbiera w sposób automatyczny żadnych informacji, z wyjątkiem informacji zawartych w tych plikach (tzw. „ciasteczkach”). Każdy może zaakceptować pliki cookies albo ma możliwość wyłączenia ich w przeglądarce, dzięki czemu nie będą zbierane żadne informacje . "
     },
     "gdpr": {
       "colorText": "#a7a7a7",
@@ -55,7 +55,8 @@
     "siteUrl": "",
     "sitemapSwitcherAuto": "on",
     "robotsText": "User-agent: *\r\nDisallow: /cgi-bin\r\n",
-    "robotsSwitcher": "on"
+    "robotsSwitcher": "on",
+    "google-analytics": ""
   },
   "pages": {
     "index.html": {
