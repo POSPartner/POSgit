@@ -1319,6 +1319,51 @@ section.lazy-placeholder:after {
     height: auto !important;
   }
 }
+.cid-rFEpEMyDwW {
+  padding-top: 60px;
+  padding-bottom: 60px;
+  background-image: url("../../../assets/images/mbr-1920x1279.jpg");
+}
+.cid-rFEpEMyDwW .testimonials-container {
+  margin: 0 auto;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item {
+  justify-content: center;
+  margin-top: 3rem;
+  -webkit-justify-content: center;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item .user {
+  background: #efefef;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item .user.row {
+  margin: 0;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item .user .user_image {
+  width: 150px;
+  height: 150px;
+  overflow: hidden;
+  margin: 2rem auto 2rem auto;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item .user .user_image img {
+  width: 100%;
+  min-width: 100%;
+  min-height: 100%;
+}
+.cid-rFEpEMyDwW .testimonials-container .testimonials-item .user .testimonials-caption {
+  padding: 2rem;
+  padding: 2rem 2rem 2rem 0;
+}
+@media (max-width: 260px) {
+  .cid-rFEpEMyDwW .user_image {
+    width: 100% !important;
+    height: auto !important;
+  }
+}
+@media (max-width: 767px) {
+  .cid-rFEpEMyDwW .testimonials-caption {
+    padding: 0 2rem 2rem 2rem !important;
+  }
+}
 .cid-rEtpBtFwhL {
   padding-top: 0px;
   padding-bottom: 0px;
